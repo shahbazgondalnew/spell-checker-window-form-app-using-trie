@@ -6,7 +6,21 @@ AppWizard has created this CppCLR_WinformsProjekt Application for you.
 
 This file contains a summary of what you will find in each of the files that
 make up your CppCLR_WinformsProjekt application.
+Project Demonstration describe how project work::
+There are three TEXT BOX 
+1-for Spell Check
+2-To EDIT word With some other Word
+3-Spell Suggestion and Any Comment in the project(Any ERROR and NOTIFICATION)
 
+
+
+|||||||||||||||||||||||||||||||||
+Following are The Button
+EDIT BUTTON: to EDIT TWO WORD (BOTH TEXT box must Be fill)
+ADD WORD: TO ADD NEW WORD
+Delete Button:
+Auto Replace Word WIth respect to best Suggestion
+/////////////////////////////////////////////
 CppCLR_WinformsProjekt.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard. 
     It contains information about the version of Visual C++ that generated the file, and 
